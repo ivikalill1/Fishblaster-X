@@ -2,6 +2,7 @@
 Game made using Python Pygame module 
 
 Lead Programmer/artist - Ivika Lill
+
 Programmer - Gerdo Germann
 
 Game development can be seen here with all the different versions -
